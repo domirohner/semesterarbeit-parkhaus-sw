@@ -1,0 +1,10 @@
+C:\Users\domin\source\repos\ParkhausSW\ParkhausSW\bin\Debug\ParkhausSW.exe.config
+C:\Users\domin\source\repos\ParkhausSW\ParkhausSW\bin\Debug\ParkhausSW.exe
+C:\Users\domin\source\repos\ParkhausSW\ParkhausSW\bin\Debug\ParkhausSW.pdb
+C:\Users\domin\source\repos\ParkhausSW\ParkhausSW\obj\Debug\ParkhausSW.csproj.AssemblyReference.cache
+C:\Users\domin\source\repos\ParkhausSW\ParkhausSW\obj\Debug\ParkhausSW.Form1.resources
+C:\Users\domin\source\repos\ParkhausSW\ParkhausSW\obj\Debug\ParkhausSW.Properties.Resources.resources
+C:\Users\domin\source\repos\ParkhausSW\ParkhausSW\obj\Debug\ParkhausSW.csproj.GenerateResource.cache
+C:\Users\domin\source\repos\ParkhausSW\ParkhausSW\obj\Debug\ParkhausSW.csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\ParkhausSW\ParkhausSW\obj\Debug\ParkhausSW.exe
+C:\Users\domin\source\repos\ParkhausSW\ParkhausSW\obj\Debug\ParkhausSW.pdb
