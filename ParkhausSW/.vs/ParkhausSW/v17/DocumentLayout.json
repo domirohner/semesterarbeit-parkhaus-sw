@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\domin\\source\\repos\\ParkhausSW\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{833FDD64-9589-4BE7-9B51-F25FA8BC6409}|ParkhausSW\\ParkhausSW.csproj|c:\\users\\domin\\source\\repos\\parkhaussw\\parkhaussw\\parkplatzrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{833FDD64-9589-4BE7-9B51-F25FA8BC6409}|ParkhausSW\\ParkhausSW.csproj|solutionrelative:parkhaussw\\parkplatzrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{833FDD64-9589-4BE7-9B51-F25FA8BC6409}|ParkhausSW\\ParkhausSW.csproj|c:\\users\\domin\\source\\repos\\parkhaussw\\parkhaussw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{833FDD64-9589-4BE7-9B51-F25FA8BC6409}|ParkhausSW\\ParkhausSW.csproj|solutionrelative:parkhaussw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{833FDD64-9589-4BE7-9B51-F25FA8BC6409}|ParkhausSW\\ParkhausSW.csproj|C:\\Users\\domin\\source\\repos\\ParkhausSW\\parkhaussw\\dauermieterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{833FDD64-9589-4BE7-9B51-F25FA8BC6409}|ParkhausSW\\ParkhausSW.csproj|solutionrelative:parkhaussw\\dauermieterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{833FDD64-9589-4BE7-9B51-F25FA8BC6409}|ParkhausSW\\ParkhausSW.csproj|C:\\Users\\domin\\source\\repos\\ParkhausSW\\parkhaussw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833FDD64-9589-4BE7-9B51-F25FA8BC6409}|ParkhausSW\\ParkhausSW.csproj|solutionrelative:parkhaussw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{833FDD64-9589-4BE7-9B51-F25FA8BC6409}|ParkhausSW\\ParkhausSW.csproj|C:\\Users\\domin\\source\\repos\\ParkhausSW\\parkhaussw\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,12 +31,16 @@
       "RelativeMoniker": "D:0:0:{833FDD64-9589-4BE7-9B51-F25FA8BC6409}|ParkhausSW\\ParkhausSW.csproj|solutionrelative:parkhaussw\\reportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{833FDD64-9589-4BE7-9B51-F25FA8BC6409}|ParkhausSW\\ParkhausSW.csproj|C:\\Users\\domin\\source\\repos\\ParkhausSW\\parkhaussw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{833FDD64-9589-4BE7-9B51-F25FA8BC6409}|ParkhausSW\\ParkhausSW.csproj|solutionrelative:parkhaussw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{833FDD64-9589-4BE7-9B51-F25FA8BC6409}|ParkhausSW\\ParkhausSW.csproj|C:\\Users\\domin\\source\\repos\\ParkhausSW\\parkhaussw\\parkplatzrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833FDD64-9589-4BE7-9B51-F25FA8BC6409}|ParkhausSW\\ParkhausSW.csproj|solutionrelative:parkhaussw\\parkplatzrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{833FDD64-9589-4BE7-9B51-F25FA8BC6409}|ParkhausSW\\ParkhausSW.csproj|C:\\Users\\domin\\source\\repos\\ParkhausSW\\parkhaussw\\parkhausrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{833FDD64-9589-4BE7-9B51-F25FA8BC6409}|ParkhausSW\\ParkhausSW.csproj|solutionrelative:parkhaussw\\parkhausrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833FDD64-9589-4BE7-9B51-F25FA8BC6409}|ParkhausSW\\ParkhausSW.csproj|C:\\Users\\domin\\source\\repos\\ParkhausSW\\parkhaussw\\dauermieterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833FDD64-9589-4BE7-9B51-F25FA8BC6409}|ParkhausSW\\ParkhausSW.csproj|solutionrelative:parkhaussw\\dauermieterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{833FDD64-9589-4BE7-9B51-F25FA8BC6409}|ParkhausSW\\ParkhausSW.csproj|C:\\Users\\domin\\source\\repos\\ParkhausSW\\parkhaussw\\dauermieter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,16 +55,8 @@
       "RelativeMoniker": "D:0:0:{833FDD64-9589-4BE7-9B51-F25FA8BC6409}|ParkhausSW\\ParkhausSW.csproj|solutionrelative:parkhaussw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{833FDD64-9589-4BE7-9B51-F25FA8BC6409}|ParkhausSW\\ParkhausSW.csproj|C:\\Users\\domin\\source\\repos\\ParkhausSW\\parkhaussw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{833FDD64-9589-4BE7-9B51-F25FA8BC6409}|ParkhausSW\\ParkhausSW.csproj|solutionrelative:parkhaussw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{64439289-0FE6-4E94-BB1A-52381810D486}|ParkhausSW.Tests\\ParkhausSW.Tests.csproj|C:\\Users\\domin\\source\\repos\\ParkhausSW\\parkhaussw.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64439289-0FE6-4E94-BB1A-52381810D486}|ParkhausSW.Tests\\ParkhausSW.Tests.csproj|solutionrelative:parkhaussw.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{833FDD64-9589-4BE7-9B51-F25FA8BC6409}|ParkhausSW\\ParkhausSW.csproj|C:\\Users\\domin\\source\\repos\\ParkhausSW\\parkhaussw\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{833FDD64-9589-4BE7-9B51-F25FA8BC6409}|ParkhausSW\\ParkhausSW.csproj|solutionrelative:parkhaussw\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Document",
@@ -86,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\ParkhausSW\\ParkhausSW\\Program.cs",
               "RelativeDocumentMoniker": "ParkhausSW\\Program.cs",
@@ -104,21 +100,9 @@
               "RelativeDocumentMoniker": "ParkhausSW\\ReportRepository.cs",
               "ToolTip": "C:\\Users\\domin\\source\\repos\\ParkhausSW\\ParkhausSW\\ReportRepository.cs",
               "RelativeToolTip": "ParkhausSW\\ReportRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABLAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwA0AAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-04T18:37:38.866Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\ParkhausSW\\ParkhausSW\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "ParkhausSW\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\domin\\source\\repos\\ParkhausSW\\ParkhausSW\\Form1.Designer.cs",
-              "RelativeToolTip": "ParkhausSW\\Form1.Designer.cs",
-              "ViewState": "AgIAAKEBAAAAAAAAAAAvwK4BAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T19:25:27.797Z"
             },
             {
               "$type": "Document",
@@ -128,7 +112,7 @@
               "RelativeDocumentMoniker": "ParkhausSW\\ParkhausRepository.cs",
               "ToolTip": "C:\\Users\\domin\\source\\repos\\ParkhausSW\\ParkhausSW\\ParkhausRepository.cs",
               "RelativeToolTip": "ParkhausSW\\ParkhausRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAO0AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAUwOkAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T19:23:39.521Z"
             },
@@ -140,7 +124,7 @@
               "RelativeDocumentMoniker": "ParkhausSW\\TarifRepository.cs",
               "ToolTip": "C:\\Users\\domin\\source\\repos\\ParkhausSW\\ParkhausSW\\TarifRepository.cs",
               "RelativeToolTip": "ParkhausSW\\TarifRepository.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAA5wDYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwDYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T19:23:16.618Z"
             },
@@ -152,32 +136,31 @@
               "RelativeDocumentMoniker": "ParkhausSW\\TicketRepository.cs",
               "ToolTip": "C:\\Users\\domin\\source\\repos\\ParkhausSW\\ParkhausSW\\TicketRepository.cs",
               "RelativeToolTip": "ParkhausSW\\TicketRepository.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAwwHIAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAcwMkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T18:56:07.376Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "ParkplatzRepository.cs",
               "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\ParkhausSW\\ParkhausSW\\ParkplatzRepository.cs",
               "RelativeDocumentMoniker": "ParkhausSW\\ParkplatzRepository.cs",
               "ToolTip": "C:\\Users\\domin\\source\\repos\\ParkhausSW\\ParkhausSW\\ParkplatzRepository.cs",
               "RelativeToolTip": "ParkhausSW\\ParkplatzRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwGUAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowDEAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T18:55:42.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T18:55:42.243Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "DauermieterRepository.cs",
               "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\ParkhausSW\\ParkhausSW\\DauermieterRepository.cs",
               "RelativeDocumentMoniker": "ParkhausSW\\DauermieterRepository.cs",
               "ToolTip": "C:\\Users\\domin\\source\\repos\\ParkhausSW\\ParkhausSW\\DauermieterRepository.cs",
               "RelativeToolTip": "ParkhausSW\\DauermieterRepository.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAowFUAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAcwFUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T18:55:16.386Z"
             },
@@ -195,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "DatabaseConnection.cs",
               "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\ParkhausSW\\ParkhausSW\\DatabaseConnection.cs",
               "RelativeDocumentMoniker": "ParkhausSW\\DatabaseConnection.cs",
@@ -207,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Dauermieter.cs",
               "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\ParkhausSW\\ParkhausSW\\Dauermieter.cs",
               "RelativeDocumentMoniker": "ParkhausSW\\Dauermieter.cs",
@@ -225,13 +208,13 @@
               "RelativeDocumentMoniker": "ParkhausSW\\Ticket.cs",
               "ToolTip": "C:\\Users\\domin\\source\\repos\\ParkhausSW\\ParkhausSW\\Ticket.cs",
               "RelativeToolTip": "ParkhausSW\\Ticket.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T18:17:56.177Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\ParkhausSW\\ParkhausSW\\Form1.cs",
               "RelativeDocumentMoniker": "ParkhausSW\\Form1.cs",
@@ -239,18 +222,20 @@
               "RelativeToolTip": "ParkhausSW\\Form1.cs",
               "ViewState": "AgIAAOcAAAAAAAAAAAD4v/sAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T18:05:32.371Z"
+              "WhenOpened": "2026-03-02T18:05:32.371Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\ParkhausSW\\ParkhausSW\\Form1.cs",
               "RelativeDocumentMoniker": "ParkhausSW\\Form1.cs",
               "ToolTip": "C:\\Users\\domin\\source\\repos\\ParkhausSW\\ParkhausSW\\Form1.cs [Design]",
               "RelativeToolTip": "ParkhausSW\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T17:35:26.016Z"
+              "WhenOpened": "2026-03-02T17:35:26.016Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

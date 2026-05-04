@@ -47,7 +47,7 @@ namespace ParkhausSW
             return null;
         }
 
-        // Wandelt die ID in einen Text um, damit der Kunde weiss, wo sein bester Platz ist
+        // Wandelt die ID in einen Text um, damit der Kunde weiss, wo sein Platz ist
         public static string HoleParkplatzBezeichnung(int parkplatzId)
         {
             using (SqlConnection connection = new SqlConnection(DatabaseConnection.ConnectionString))

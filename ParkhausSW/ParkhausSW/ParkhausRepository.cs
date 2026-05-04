@@ -231,6 +231,7 @@ namespace ParkhausSW
             return (anzahlStockwerke, anzahlPlaetze);
         }
 
+        // Prüfen ob Häckchen für Feiertag gesetzt ist
         public static bool HoleFeiertagsStatus()
         {
             bool istFeiertag = false;
